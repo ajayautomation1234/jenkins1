@@ -46,6 +46,12 @@
     <version>7.4.0</version>
     <scope>compile</scope>
 </dependency>
+	      <dependency>
+        <groupId><yourGroupID></groupId>
+        <artifactId><yourArtifactId></artifactId>
+        <version><yourVersion></version>
+    </dependency>
+
 <dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
